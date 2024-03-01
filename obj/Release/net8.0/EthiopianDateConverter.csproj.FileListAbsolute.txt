@@ -1,0 +1,11 @@
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\bin\Release\net8.0\EthiopianDateConverter.deps.json
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\bin\Release\net8.0\EthiopianDateConverter.dll
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\bin\Release\net8.0\EthiopianDateConverter.pdb
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.AssemblyInfoInputs.cache
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.AssemblyInfo.cs
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.csproj.CoreCompileInputs.cache
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.dll
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\refint\EthiopianDateConverter.dll
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\EthiopianDateConverter.pdb
+C:\Users\v-tetadesse\source\repos\EthiopianDateConverter\EthiopianDateConverter\obj\Release\net8.0\ref\EthiopianDateConverter.dll
